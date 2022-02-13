@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fireChatforProduction/static/css/main.416add6e.chunk.css",
+    "main.js": "/fireChatforProduction/static/js/main.3db7774c.chunk.js",
+    "main.js.map": "/fireChatforProduction/static/js/main.3db7774c.chunk.js.map",
+    "runtime-main.js": "/fireChatforProduction/static/js/runtime-main.e52caa8a.js",
+    "runtime-main.js.map": "/fireChatforProduction/static/js/runtime-main.e52caa8a.js.map",
+    "static/js/2.17db2bd4.chunk.js": "/fireChatforProduction/static/js/2.17db2bd4.chunk.js",
+    "static/js/2.17db2bd4.chunk.js.map": "/fireChatforProduction/static/js/2.17db2bd4.chunk.js.map",
+    "index.html": "/fireChatforProduction/index.html",
+    "static/css/main.416add6e.chunk.css.map": "/fireChatforProduction/static/css/main.416add6e.chunk.css.map",
+    "static/js/2.17db2bd4.chunk.js.LICENSE.txt": "/fireChatforProduction/static/js/2.17db2bd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e52caa8a.js",
+    "static/js/2.17db2bd4.chunk.js",
+    "static/css/main.416add6e.chunk.css",
+    "static/js/main.3db7774c.chunk.js"
+  ]
+}
